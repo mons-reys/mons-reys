@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria ELmahalli</h1>
-<h3 align="center">kind person, Well-organised, problem solver, software engineering student with high attention to detail, a person who enjoys learning new things and acquiring new knowledge. I am a Dev blogger.</h3>
+<h3 align="center">kind person 😄, problem solver 🧑🏻‍🔧, software engineering student with high attention to detail 💻, a person who enjoys learning new things and acquiring new knowledge 🔑. I am a Dev blogger ✍️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mons-reys&label=Profile%20views&color=0e75b6&style=flat" alt="mons-reys" /> </p>
 
