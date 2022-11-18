@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://zakaria-elmahalli1.medium.com/scrum-what-you-need-to-know-to-start-working-with-scrum-769e98ee696f](https://zakaria-elmahalli1.medium.com/scrum-what-you-need-to-know-to-start-working-with-scrum-769e98ee696f)
 
-- 💬 Ask me about **node.js , express, mongoDB, laravel, spring, java, php, Perl**
+- 💬 Ask me about **JAVA/JEE - SPRING - SPRING BOOT - ANGULAR - PERL**
 
 - 📫 How to reach me **zakaria.elmahalli1@gmail.com**
 
