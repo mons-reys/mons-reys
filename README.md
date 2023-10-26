@@ -6,13 +6,11 @@
 <h3>What i do:  </h3>
 
 
-- 🌱 I’m currently learning new technologies **Spring, spring security, mern stack, python**
+- 🌱 my stack **JAVA/JEE, Spring boot, spring security, Kafka, Angular**
 
 - 👨‍💻 All of my projects are available at [https://about-elmahalli-zakaria.herokuapp.com/](https://about-elmahalli-zakaria.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://zakaria-elmahalli1.medium.com/scrum-what-you-need-to-know-to-start-working-with-scrum-769e98ee696f](https://zakaria-elmahalli1.medium.com/scrum-what-you-need-to-know-to-start-working-with-scrum-769e98ee696f)
-
-- 💬 Ask me about **JAVA/JEE - SPRING - SPRING BOOT - ANGULAR - PERL**
 
 - 📫 How to reach me **zakaria.elmahalli1@gmail.com**
 
